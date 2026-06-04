@@ -1,9 +1,4 @@
-# bilibili
-
-https://cdn.jsdmirror.com/gh/bili520/Twikoo-Magic@main/main.json
-https://cdn.jsdmirror.com/gh/bili520/Twikoo-Magic@main/main.json
-
-# 123456
-
-https://cdn.jsdmirror.com/gh/bili520/Twikoo-Magic@main/main.json
-https://cdn.jsdmirror.com/gh/bili520/Twikoo-Magic@main/main.json
+https://bilibili.586855.xyz/
+https://bilibili.suify.cn/
+https://bilibili.567099.xyz/
+https://bilibili.quqmico.cn/
